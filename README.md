@@ -1,8 +1,8 @@
 # self-driving-vehicle
 
 ## 순서
-* 색상 선정
-  * 특정 색상이하 RGB 값을 검은색으로 처리
+* RGB threshold 선정
+* 선정 threshold 이하 
 * 삼각형 영역 선정
   * 왼쪽 아래, 가운데  위, 오른쪽 아래
 * 식별한 영역에 특정 색상 입히기

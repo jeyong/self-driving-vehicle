@@ -1,8 +1,9 @@
 # self-driving-vehicle
 
 ## 순서
- * 색상 선정
-   * 특정 색상이하 RGB 값을 검은색으로 처리 
+* 색상 선정
+  * 특정 색상이하 RGB 값을 검은색으로 처리 
+
 
 ```python
 import matplotlib.pyplot as plt

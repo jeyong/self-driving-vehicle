@@ -8,6 +8,8 @@
 * 식별한 영역에 특정 색상 입히기
 * Edge 찾기
   * OpenCV Canny Edge
+  * 먼저 대상 이미지를 greyscale로 변환
+  * edges = cv2.Canny(gray, low_threshold, high_threshold)
 * Hough Transform
 
 
